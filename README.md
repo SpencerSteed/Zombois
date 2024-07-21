@@ -35,21 +35,9 @@ This project is a 2D zombie survival game developed using Unity. Players must na
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-## Credits
-- **Unity Asset Store:** Assets used (list any assets or resources used from the Unity Asset Store).
-- **Developers:** List the names of the developers or team members who worked on the project.
-
-## License
-Specify the license under which the game is distributed. For example:
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 Mention any acknowledgments or inspirations here.
 
 ## Contact
-- Developer Name
-- Developer Contact Information (optional)
-
----
-
-Feel free to customize this README template further based on the specifics of your game and project details.
+- Spencer Steed
+spencersteed@gmail.com
