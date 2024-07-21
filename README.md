@@ -1,7 +1,3 @@
-Certainly! Here's a template for a README file for your 2D zombie survival game made with Unity:
-
----
-
 # 2D Zombie Survival Game
 
 ## Description
