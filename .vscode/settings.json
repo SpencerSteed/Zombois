@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Grain Zombois.sln"
+    "dotnet.defaultSolution": "Zombois.sln"
 }
